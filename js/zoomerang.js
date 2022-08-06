@@ -1,3 +1,6 @@
+/*
+ * zoomerang.js - http://yyx990803.github.io/zoomerang/
+ */
 
 (function () {
 
